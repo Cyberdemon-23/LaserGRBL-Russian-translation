@@ -145,10 +145,10 @@
     <value>Разблокировать</value>
   </data>
   <data name="MnExportConfig.Text" xml:space="preserve">
-    <value>Конфигурация экспорта</value>
+    <value>Настройки экспорта</value>
   </data>
   <data name="MnImportConfig.Text" xml:space="preserve">
-    <value>Конфигурация импорта</value>
+    <value>Настройки импорта</value>
   </data>
   <data name="settingsToolStripMenuItem.Text" xml:space="preserve">
     <value>Настройки</value>
