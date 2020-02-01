@@ -117,43 +117,38 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="$this.ToolTipText" xml:space="preserve">
-    <value>Соединение</value>
+  <data name="BtnCancel.Text" xml:space="preserve">
+    <value>Отмена</value>
   </data>
-  <data name="LblFilename.Text" xml:space="preserve">
-    <value>Имя файла</value>
+  <data name="BtnCreate.Text" xml:space="preserve">
+    <value>Создать!</value>
   </data>
-  <data name="BtnRunProgram.ToolTip" xml:space="preserve">
-    <value>Запуск программы</value>
+  <data name="LblDescription.Text" xml:space="preserve">
+    <value>- Используйте точку в качестве десятичного разделителя
+- Поддерживает математическое выражение в квадратных скобках: то есть G0 X [left-5] Y [bottom-5]
+- Доступные переменные: слева, справа, сверху, снизу, ширины, высоты .. (и многое другое)
+
+Смотрите http://lasergrbl.com/usage/custom-buttons/</value>
   </data>
-  <data name="LblProgress.Text" xml:space="preserve">
-    <value>Прогресс</value>
+  <data name="LblEnabled.Text" xml:space="preserve">
+    <value>Включить</value>
   </data>
-  <data name="BtnConnectDisconnect.ToolTip" xml:space="preserve">
-    <value>Соединение</value>
+  <data name="LblToolTip.Text" xml:space="preserve">
+    <value>Всплывающая подсказка</value>
   </data>
-  <data name="BtnOpen.ToolTip" xml:space="preserve">
-    <value>Открыть файл</value>
+  <data name="LblImage.Text" xml:space="preserve">
+    <value>Картинка</value>
   </data>
-  <data name="UDLoopCounter.ToolTip" xml:space="preserve">
-    <value>Выполнить несколько проходов</value>
+  <data name="LblType.Text" xml:space="preserve">
+    <value>Тип:</value>
   </data>
-  <data name="BtnAbortProgram.ToolTip" xml:space="preserve">
-    <value>Прервать программу</value>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Пользовательская кнопка</value>
   </data>
-  <data name="LblEmulator.Text" xml:space="preserve">
-    <value>Эмулятор</value>
+  <data name="LblGCode2.Text" xml:space="preserve">
+    <value>GCode2</value>
   </data>
-  <data name="LblComPort.Text" xml:space="preserve">
-    <value>COM</value>
-  </data>
-  <data name="LblBaudRate.Text" xml:space="preserve">
-    <value>Baud</value>
-  </data>
-  <data name="LblAddress.Text" xml:space="preserve">
-    <value>URL</value>
-  </data>
-  <data name="TxtEmulator.Text" xml:space="preserve">
-    <value>Эмулятор Grbl v1.1 #</value>
+  <data name="LblGCode.Text" xml:space="preserve">
+    <value>GCode</value>
   </data>
 </root>

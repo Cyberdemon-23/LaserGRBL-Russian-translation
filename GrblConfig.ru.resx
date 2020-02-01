@@ -117,43 +117,47 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="$this.ToolTipText" xml:space="preserve">
-    <value>Соединение</value>
+  <data name="BtnWrite.Text" xml:space="preserve">
+    <value>Записать</value>
   </data>
-  <data name="LblFilename.Text" xml:space="preserve">
-    <value>Имя файла</value>
+  <data name="BtnRead.Text" xml:space="preserve">
+    <value>Обновить</value>
   </data>
-  <data name="BtnRunProgram.ToolTip" xml:space="preserve">
-    <value>Запуск программы</value>
+  <data name="BtnCancel.Text" xml:space="preserve">
+    <value>Закрыть</value>
   </data>
-  <data name="LblProgress.Text" xml:space="preserve">
-    <value>Прогресс</value>
+  <data name="LblConnect.Text" xml:space="preserve">
+    <value>Чтение и запись включены
+только когда подключен и простаивает</value>
   </data>
-  <data name="BtnConnectDisconnect.ToolTip" xml:space="preserve">
-    <value>Соединение</value>
+  <data name="BtnExport.Text" xml:space="preserve">
+    <value>Экспорт</value>
   </data>
-  <data name="BtnOpen.ToolTip" xml:space="preserve">
-    <value>Открыть файл</value>
+  <data name="BtnImport.Text" xml:space="preserve">
+    <value>Импорт</value>
   </data>
-  <data name="UDLoopCounter.ToolTip" xml:space="preserve">
-    <value>Выполнить несколько проходов</value>
+  <data name="LblAction.Text" xml:space="preserve">
+    <value>Действие</value>
   </data>
-  <data name="BtnAbortProgram.ToolTip" xml:space="preserve">
-    <value>Прервать программу</value>
+  <data name="Parameter.HeaderText" xml:space="preserve">
+    <value>Параметр</value>
   </data>
-  <data name="LblEmulator.Text" xml:space="preserve">
-    <value>Эмулятор</value>
+  <data name="Value.HeaderText" xml:space="preserve">
+    <value>Значение</value>
   </data>
-  <data name="LblComPort.Text" xml:space="preserve">
-    <value>COM</value>
+  <data name="Unit.HeaderText" xml:space="preserve">
+    <value>Единица</value>
   </data>
-  <data name="LblBaudRate.Text" xml:space="preserve">
-    <value>Baud</value>
+  <data name="Description.HeaderText" xml:space="preserve">
+    <value>Описание</value>
   </data>
-  <data name="LblAddress.Text" xml:space="preserve">
-    <value>URL</value>
+  <data name="Number.HeaderText" xml:space="preserve">
+    <value>Номер</value>
   </data>
-  <data name="TxtEmulator.Text" xml:space="preserve">
-    <value>Эмулятор Grbl v1.1 #</value>
+  <data name="DollarNumber.HeaderText" xml:space="preserve">
+    <value>#</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Grbl</value>
   </data>
 </root>

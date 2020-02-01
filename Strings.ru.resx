@@ -112,17 +112,17 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="BoxAutoUpdateFailed" xml:space="preserve">
     <value>Автоматическое обновление не удалось!
-Пожалуйста, вручную скачайте новую версию с сайта lasergrbl.</value>
+Пожалуйста, скачайте вручную новую версию с сайта lasergrbl.</value>
   </data>
   <data name="BoxAutoUpdateRequireAdmin" xml:space="preserve">
-    <value>Обновление,  требуются права администратора!</value>
+    <value>Обновление, требуются права администратора!</value>
   </data>
   <data name="BoxAutoUpdateResult" xml:space="preserve">
     <value>Результат обновления</value>
@@ -140,7 +140,7 @@
     <value>Ошибка</value>
   </data>
   <data name="BoxExportConfigFileNotFound" xml:space="preserve">
-    <value>Файл не может быть открыт !</value>
+    <value>Файл не может быть открыт!</value>
   </data>
   <data name="BoxExportConfigSuccess" xml:space="preserve">
     <value>{0} конфигурационный файл экспортирован успешно!</value>
@@ -158,10 +158,10 @@
     <value>{0} Конфигурация импортирована успешно!</value>
   </data>
   <data name="CustomButtonEdit" xml:space="preserve">
-    <value>Редактирование</value>
+    <value>Редактировать кнопку</value>
   </data>
   <data name="CustomButtonRemove" xml:space="preserve">
-    <value>Удаление</value>
+    <value>Удалить кнопку</value>
   </data>
   <data name="DirectionDiagonal" xml:space="preserve">
     <value>Диагональ</value>
@@ -270,7 +270,7 @@
     <value>Удалить актуальные кнопки? Выберите да, чтобы удалить, нет, чтобы сохранить.</value>
   </data>
   <data name="BoxImportCustomButtonrCaption" xml:space="preserve">
-    <value>подтверждение</value>
+    <value>Подтвердить</value>
   </data>
   <data name="BoxReadConfigError" xml:space="preserve">
     <value>Ошибка чтения конфигурации!</value>
