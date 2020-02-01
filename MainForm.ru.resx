@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="TTLLines.Text" xml:space="preserve">
-    <value>линии:</value>
+    <value>Линии:</value>
   </data>
   <data name="TTLEstimated.Text" xml:space="preserve">
     <value>Расчетное время:</value>
@@ -127,10 +127,10 @@
     <value>неизвестный</value>
   </data>
   <data name="TTLStatus.Text" xml:space="preserve">
-    <value>статус:</value>
+    <value>Статус:</value>
   </data>
   <data name="MnConnect.Text" xml:space="preserve">
-    <value>ассоциировать</value>
+    <value>Подключить</value>
   </data>
   <data name="MnDisconnect.Text" xml:space="preserve">
     <value>Отключить</value>
@@ -139,10 +139,10 @@
     <value>Сброс</value>
   </data>
   <data name="MnGoHome.Text" xml:space="preserve">
-    <value>обратный путь</value>
+    <value>Домой</value>
   </data>
   <data name="MnUnlock.Text" xml:space="preserve">
-    <value>отпереть</value>
+    <value>Разблокировать</value>
   </data>
   <data name="MnExportConfig.Text" xml:space="preserve">
     <value>Конфигурация экспорта</value>
@@ -151,10 +151,10 @@
     <value>Конфигурация импорта</value>
   </data>
   <data name="settingsToolStripMenuItem.Text" xml:space="preserve">
-    <value>настройки</value>
+    <value>Настройки</value>
   </data>
   <data name="MnExit.Text" xml:space="preserve">
-    <value>выходить</value>
+    <value>Выход</value>
   </data>
   <data name="MnFileOpen.Text" xml:space="preserve">
     <value>Открыть файл</value>
@@ -163,19 +163,19 @@
     <value>Сохранить программу</value>
   </data>
   <data name="MnFileSend.Text" xml:space="preserve">
-    <value>Отправить на машину</value>
+    <value>Отправить на станок</value>
   </data>
   <data name="fileToolStripMenuItem.Text" xml:space="preserve">
     <value>Файл</value>
   </data>
   <data name="MNEnglish.Text" xml:space="preserve">
-    <value>английский</value>
+    <value>Английский</value>
   </data>
   <data name="MNItalian.Text" xml:space="preserve">
-    <value>итальянский</value>
+    <value>Итальянский</value>
   </data>
   <data name="MNSpanish.Text" xml:space="preserve">
-    <value>испанский</value>
+    <value>Испанский</value>
   </data>
   <data name="MNFrench.Text" xml:space="preserve">
     <value>Французский</value>
@@ -184,13 +184,13 @@
     <value>Немецкий</value>
   </data>
   <data name="MNDanish.Text" xml:space="preserve">
-    <value>датский</value>
+    <value>Датский</value>
   </data>
   <data name="MNBrazilian.Text" xml:space="preserve">
-    <value>бразильский</value>
+    <value>Бразильский</value>
   </data>
   <data name="linguaToolStripMenuItem.Text" xml:space="preserve">
-    <value>язык</value>
+    <value>Язык</value>
   </data>
   <data name="helpOnLineToolStripMenuItem.Text" xml:space="preserve">
     <value>Помощь на линии</value>
@@ -205,13 +205,13 @@
     <value>Веб-сайт</value>
   </data>
   <data name="russianToolStripMenuItem.Text" xml:space="preserve">
-    <value>русский</value>
+    <value>Русский</value>
   </data>
   <data name="chinexeToolStripMenuItem.Text" xml:space="preserve">
-    <value>китайский</value>
+    <value>Китайский</value>
   </data>
   <data name="schemaToolStripMenuItem.Text" xml:space="preserve">
-    <value>&amp;цвета</value>
+    <value>&amp;Цвета</value>
   </data>
   <data name="MnGrblConfig.Text" xml:space="preserve">
     <value>Конфигурация Grbl</value>
@@ -229,7 +229,7 @@
     <value>Отправить с &amp;Позиции</value>
   </data>
   <data name="slovakianToolStripMenuItem.Text" xml:space="preserve">
-    <value>словацкий</value>
+    <value>Словацкий</value>
   </data>
   <data name="donateToolStripMenuItem.Text" xml:space="preserve">
     <value>Поддержать!</value>
