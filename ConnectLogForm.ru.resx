@@ -157,7 +157,7 @@
     <value>COM</value>
   </data>
   <data name="LblBaudRate.Text" xml:space="preserve">
-    <value>скорость передачи</value>
+    <value>Скорость</value>
   </data>
   <data name="LblAddress.Text" xml:space="preserve">
     <value>URL</value>
