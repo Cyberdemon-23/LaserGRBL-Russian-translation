@@ -124,7 +124,7 @@
     <value>Расчетное время:</value>
   </data>
   <data name="TTTEstimated.Text" xml:space="preserve">
-    <value>неизвестный</value>
+    <value>Неизвестно</value>
   </data>
   <data name="TTLStatus.Text" xml:space="preserve">
     <value>Статус:</value>
