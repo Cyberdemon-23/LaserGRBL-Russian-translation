@@ -1,2 +1,1 @@
-# Translated
-LaserGRBL translation
+# LaserGRBL Russian translation
